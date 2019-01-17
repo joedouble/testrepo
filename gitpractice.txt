@@ -1,1 +1,3 @@
 Adding text to my test file.
+
+Changed color of text.
